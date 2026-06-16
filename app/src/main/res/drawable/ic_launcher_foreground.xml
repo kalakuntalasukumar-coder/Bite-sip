@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Stylized Burger & Drink Cup Silhouette Layer -->
+    <!-- Drink Cup (Right Side) -->
+    <path
+        android:fillColor="#FFC300"
+        android:pathData="M56,72 L66,72 L70,44 L52,44 Z" />
+    <!-- Cup Lid -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,44 L72,44 C73.1,44 74,43.1 74,42 L48,42 C48,43.1 48.9,44 50,44 Z" />
+    <!-- Straw -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M63,42 L67,26 L71,26 L67,42 Z" />
+    
+    <!-- Burger (Left Side) -->
+    <!-- Top Bun -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,53 C24,46.3 29.3,41 36,41 C42.6,41 48,46.3 48,53 L24,53 Z" />
+    <!-- Cheese Melting Slice -->
+    <path
+        android:fillColor="#FFC300"
+        android:pathData="M22,55 L49,55 L47,59 L44,57 L41,60 L24,55 Z" />
+    <!-- Patty -->
+    <path
+        android:fillColor="#E63946"
+        android:pathData="M24,61 C24,59.3 25.3,58 27,58 L45,58 C46.6,58 48,59.3 48,61 L48,63 C48,64.6 46.6,66 45,66 L27,66 C25.3,66 24,64.6 24,63 Z" />
+    <!-- Bottom Bun -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,68 L46,68 C47.1,68 48,68.9 48,70 L48,71 C48,72.1 47.1,73 46,73 L26,73 C24.9,73 24,72.1 24,71 L24,70 C24,68.9 24.9,68 26,68 Z" />
+        
+</vector>

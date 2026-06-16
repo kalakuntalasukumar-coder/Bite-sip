@@ -1,0 +1,6 @@
+{
+  "name": "Bite & Sip",
+  "description": "Bite & Sip Premium Cafe & Restaurant Food Ordering Mobile Application. Experience ultra-fast, premium café-style ordering with loyalty points, interactive order tracking, support chat, smart AI recommendations, and a powerful live admin manager dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
